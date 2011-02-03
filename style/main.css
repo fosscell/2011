@@ -1,0 +1,103 @@
+
+
+
+
+
+/*
+     FILE ARCHIVED ON 15:53:06 Jul 21, 2011 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 15:35:19 Sep 30, 2016.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+html, body {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	text-align: center;
+}
+
+h1 {
+	font-size: 28pt;
+	letter-spacing: 12px;
+	border-bottom: 1px solid #ddd;
+	margin: 0;
+}
+
+h2.subtitle {
+	margin-top: 0px;
+	margin-bottom: 40px;
+}
+
+#container {
+	text-align: center;
+	margin: 100px auto;
+	width: 700px;
+	color: #555;
+	top: 10px;
+}
+
+#countdown_dashboard {
+	height: 70px;
+	text-align: center;
+}
+
+.dash {
+	width: 82px;
+	height: 68px;
+	float: left;
+	margin-left: 50px;
+	position: relative;
+	background: transparent url('../images/dash.png') 0 0 no-repeat;
+}
+
+.dash .digit {
+	font-size: 25pt;
+	font-weight: bold;
+	float: left;
+	width: 17px;
+	text-align: center;
+	font-family: Times;
+	color: #555;
+	position: relative;
+	margin-left: 10px;
+	bottom: 10px;
+
+}
+
+.dash_title {
+	position: relative;
+	display: block;
+	bottom: 15px;
+	right: 10px;
+	font-size: 8pt;
+	color: #555;
+	text-transform: uppercase;
+	letter-spacing: 2px;
+}
+
+.dev_comment {
+	font-size: 12pt;
+	color: #777;
+	text-align: center;
+	font-style: italic;
+	margin: 40px 10px;
+}
+
+.dev_links {
+	font-size: 10pt;
+	color: #777;
+	text-align: center;
+	font-style: italic;
+	margin: 40px 10px;
+}
+a{
+	color: #777;
+}
+
+.faded {
+	color: #999;
+}
